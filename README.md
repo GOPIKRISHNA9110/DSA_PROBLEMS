@@ -8,9 +8,30 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0724-find-pivot-index/) | Easy |
+| [0877-stone-game](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0877-stone-game/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0724-find-pivot-index/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0877-stone-game/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0877-stone-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
