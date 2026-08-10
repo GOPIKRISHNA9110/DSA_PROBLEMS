@@ -7,8 +7,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0724-find-pivot-index/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
