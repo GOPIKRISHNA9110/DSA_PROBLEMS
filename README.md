@@ -9,11 +9,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0877-stone-game/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
