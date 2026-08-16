@@ -48,5 +48,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0175-combine-two-tables/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
