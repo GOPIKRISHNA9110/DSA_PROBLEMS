@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0050-powx-n/) | Medium |
 | [0877-stone-game](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Dynamic Programming
@@ -50,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0175-combine-two-tables/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0196-delete-duplicate-emails/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
