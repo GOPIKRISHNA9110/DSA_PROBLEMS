@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0050-powx-n/) | Medium |
+| [0202-happy-number](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0202-happy-number/) | Easy |
 | [0877-stone-game](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Dynamic Programming
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0202-happy-number/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -55,4 +57,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0050-powx-n/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0202-happy-number/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
