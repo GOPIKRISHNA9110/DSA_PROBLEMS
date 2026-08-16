@@ -45,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/GOPIKRISHNA9110/DSA_PROBLEMS/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
